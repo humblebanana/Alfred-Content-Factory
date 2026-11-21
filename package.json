@@ -1,0 +1,10 @@
+{
+  "name": "alfred-content-factory",
+  "private": true,
+  "scripts": {
+    "lark": "lark-cli"
+  },
+  "dependencies": {
+    "@larksuite/cli": "1.0.100"
+  }
+}
